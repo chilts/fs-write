@@ -1,14 +1,11 @@
 {
   "name": "fs-write",
+  "description": "Test to see if we can write to the file system in Heroku's Dynos.",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "author": "Andrew Chilton <andychilton@gmail.com>",
+  "license": "MIT"
 }
